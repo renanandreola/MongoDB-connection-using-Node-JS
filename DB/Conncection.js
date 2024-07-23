@@ -1,7 +1,7 @@
 
 const mongoose = require('mongoose');
 
-const URI = "mongodb+srv://renan:renan@cluster0-ri9wb.mongodb.net/test?retryWrites=true&w=majority";
+const URI = "";
 
 mongoose.Promise = global.Promise;
 
